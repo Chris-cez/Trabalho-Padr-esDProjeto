@@ -1,5 +1,5 @@
 # Trabalho Engenharia de Software - Padrões De Projeto
-O presente trabalho tem como objetivo, apresentar 3 padrões de projeto, um criacional, um estrutural e um comportamental. O presente trabalho tem exemplos de códigos retirados do site refactoring.guru, os exemplos estarão todos na linguagem Go(golang), a explicação sobre para que serve cada um, o que são e o respectivo UML ficarão logo abaixo de cada título.
+O presente trabalho tem como objetivo, apresentar 3 padrões de projeto, um criacional, um estrutural e um comportamental. O presente trabalho tem exemplos de códigos retirados do site [refactoring.guru](https://refactoring.guru/pt-br), os exemplos estarão todos na linguagem Go(golang), a explicação sobre para que serve cada um, o que são e o respectivo UML ficarão logo abaixo de cada título.
 ## Padrão Criacional - Factory Method
 
 ### O que é e para que serve.
