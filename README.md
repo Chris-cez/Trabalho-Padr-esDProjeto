@@ -107,7 +107,7 @@ A struct gunFactory serve como um factory, que cria armas do tipo desejado com b
 ### UML - Padrão Factory Method
 ![UML-Factory-Method](FactoryMethod.png)
 
-## Padrão Estrtural - Adapter
+## Padrão Estrutural - Adapter
 Também chamado de Wrapper
 
 ### O que é e para que serve.
